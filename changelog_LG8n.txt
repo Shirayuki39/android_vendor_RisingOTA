@@ -3,6 +3,11 @@ Build type: Weekly
 Device: TECNO POVA 4 Pro (LG8n)
 Device maintainer: Ren (Shirayuki39/Shirayuki428)
 
-===== 09-18-2024 =====
-- RisingOS 5.2.1 Changes
-- Fix LTE-CA
+===== 10-21-2024 =====
+- October Security Patch
+- Reduce Night Light Tint Flickers
+- Partially Fix Offline Charging (Still needs more work)
+- Fix USB Audio Stutters
+- Properly adapt powerhint to G99
+- Set Default Governor to schedutil
+
